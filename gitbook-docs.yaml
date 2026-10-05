@@ -26,6 +26,5 @@ site:
           title: Domains
           path: domains
           default: true
-          draft: true
           content:
             directory: ./domains
