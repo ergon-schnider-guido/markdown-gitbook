@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://api.gitbook.com/gitbook-docs.yaml
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+version: 1
+site:
+  title: markdown-gitbook
+  structure:
+    - type: space
+      key: space-markdown-gitbook
+      title: markdown-gitbook
+      path: markdown-gitbook
+      default: true
+      content:
+        directory: ./
