@@ -6,7 +6,6 @@ site:
       key: section-1
       title: markdown-gitbook
       path: markdown-gitbook
-      default: true
       children:
         - type: space
           key: space-markdown-gitbook
@@ -19,6 +18,8 @@ site:
       key: section-2
       title: Domains
       path: domains
+      description: Top level for all domains
+      default: true
       children:
         - type: space
           key: space-1
